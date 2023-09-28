@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravivadaliya&label=Profile%20views&color=0e75b6&style=flat" alt="ravivadaliya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravivadaliya" alt="ravivadaliya" /></a> </p>
-
 - 🌱 I’m currently learning **Devops**
 
 <h3 align="left">Connect with me:</h3>
